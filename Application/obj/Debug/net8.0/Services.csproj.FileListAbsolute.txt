@@ -1,0 +1,12 @@
+D:\Project C#\API\Services\bin\Debug\net8.0\Services.deps.json
+D:\Project C#\API\Services\bin\Debug\net8.0\Services.dll
+D:\Project C#\API\Services\bin\Debug\net8.0\Services.pdb
+D:\Project C#\API\Services\obj\Debug\net8.0\Services.csproj.AssemblyReference.cache
+D:\Project C#\API\Services\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project C#\API\Services\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
+D:\Project C#\API\Services\obj\Debug\net8.0\Services.AssemblyInfo.cs
+D:\Project C#\API\Services\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
+D:\Project C#\API\Services\obj\Debug\net8.0\Services.dll
+D:\Project C#\API\Services\obj\Debug\net8.0\refint\Services.dll
+D:\Project C#\API\Services\obj\Debug\net8.0\Services.pdb
+D:\Project C#\API\Services\obj\Debug\net8.0\ref\Services.dll

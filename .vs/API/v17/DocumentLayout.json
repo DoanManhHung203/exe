@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project C#\\API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68760718-A306-407D-BC26-DC0200A1CEFF}|Services\\Services.csproj|d:\\project c#\\api\\services\\services\\claimservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68760718-A306-407D-BC26-DC0200A1CEFF}|Services\\Services.csproj|solutionrelative:services\\services\\claimservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68760718-A306-407D-BC26-DC0200A1CEFF}|Services\\Services.csproj|d:\\project c#\\api\\services\\services\\interfaces\\iclaimservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68760718-A306-407D-BC26-DC0200A1CEFF}|Services\\Services.csproj|solutionrelative:services\\services\\interfaces\\iclaimservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC18375F-F389-48E0-A653-42F0BDE0CB77}|Repositories\\Repositories.csproj|d:\\project c#\\api\\repositories\\repositories\\genericrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC18375F-F389-48E0-A653-42F0BDE0CB77}|Repositories\\Repositories.csproj|solutionrelative:repositories\\repositories\\genericrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68760718-A306-407D-BC26-DC0200A1CEFF}|Services\\Services.csproj|d:\\project c#\\api\\services\\services\\currenttime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68760718-A306-407D-BC26-DC0200A1CEFF}|Services\\Services.csproj|solutionrelative:services\\services\\currenttime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68760718-A306-407D-BC26-DC0200A1CEFF}|Services\\Services.csproj|d:\\project c#\\api\\services\\services\\interfaces\\icurrenttime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68760718-A306-407D-BC26-DC0200A1CEFF}|Services\\Services.csproj|solutionrelative:services\\services\\interfaces\\icurrenttime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC18375F-F389-48E0-A653-42F0BDE0CB77}|Repositories\\Repositories.csproj|d:\\project c#\\api\\repositories\\repositories\\interfaces\\igenericrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC18375F-F389-48E0-A653-42F0BDE0CB77}|Repositories\\Repositories.csproj|solutionrelative:repositories\\repositories\\interfaces\\igenericrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC18375F-F389-48E0-A653-42F0BDE0CB77}|Repositories\\Repositories.csproj|d:\\project c#\\api\\repositories\\repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FC18375F-F389-48E0-A653-42F0BDE0CB77}|Repositories\\Repositories.csproj|solutionrelative:repositories\\repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC18375F-F389-48E0-A653-42F0BDE0CB77}|Repositories\\Repositories.csproj|d:\\project c#\\api\\repositories\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC18375F-F389-48E0-A653-42F0BDE0CB77}|Repositories\\Repositories.csproj|solutionrelative:repositories\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D22BFA4-34EB-499A-834C-C8A58454B4F7}|API\\API.csproj|d:\\project c#\\api\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1D22BFA4-34EB-499A-834C-C8A58454B4F7}|API\\API.csproj|solutionrelative:api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68760718-A306-407D-BC26-DC0200A1CEFF}|Services\\Services.csproj|d:\\project c#\\api\\services\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{68760718-A306-407D-BC26-DC0200A1CEFF}|Services\\Services.csproj|solutionrelative:services\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC18375F-F389-48E0-A653-42F0BDE0CB77}|Repositories\\Repositories.csproj|d:\\project c#\\api\\repositories\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC18375F-F389-48E0-A653-42F0BDE0CB77}|Repositories\\Repositories.csproj|solutionrelative:repositories\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68760718-A306-407D-BC26-DC0200A1CEFF}|Services\\Services.csproj|d:\\project c#\\api\\services\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68760718-A306-407D-BC26-DC0200A1CEFF}|Services\\Services.csproj|solutionrelative:services\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D22BFA4-34EB-499A-834C-C8A58454B4F7}|API\\API.csproj|d:\\project c#\\api\\api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1D22BFA4-34EB-499A-834C-C8A58454B4F7}|API\\API.csproj|solutionrelative:api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 162,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClaimService.cs",
+              "DocumentMoniker": "D:\\Project C#\\API\\Services\\Services\\ClaimService.cs",
+              "RelativeDocumentMoniker": "Services\\Services\\ClaimService.cs",
+              "ToolTip": "D:\\Project C#\\API\\Services\\Services\\ClaimService.cs",
+              "RelativeToolTip": "Services\\Services\\ClaimService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T08:54:02.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IClaimService.cs",
+              "DocumentMoniker": "D:\\Project C#\\API\\Services\\Services\\Interfaces\\IClaimService.cs",
+              "RelativeDocumentMoniker": "Services\\Services\\Interfaces\\IClaimService.cs",
+              "ToolTip": "D:\\Project C#\\API\\Services\\Services\\Interfaces\\IClaimService.cs",
+              "RelativeToolTip": "Services\\Services\\Interfaces\\IClaimService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T08:53:09.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CurrentTime.cs",
+              "DocumentMoniker": "D:\\Project C#\\API\\Services\\Services\\CurrentTime.cs",
+              "RelativeDocumentMoniker": "Services\\Services\\CurrentTime.cs",
+              "ToolTip": "D:\\Project C#\\API\\Services\\Services\\CurrentTime.cs",
+              "RelativeToolTip": "Services\\Services\\CurrentTime.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T08:51:42.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICurrentTime.cs",
+              "DocumentMoniker": "D:\\Project C#\\API\\Services\\Services\\Interfaces\\ICurrentTime.cs",
+              "RelativeDocumentMoniker": "Services\\Services\\Interfaces\\ICurrentTime.cs",
+              "ToolTip": "D:\\Project C#\\API\\Services\\Services\\Interfaces\\ICurrentTime.cs",
+              "RelativeToolTip": "Services\\Services\\Interfaces\\ICurrentTime.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T08:51:41.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenericRepositories.cs",
+              "DocumentMoniker": "D:\\Project C#\\API\\Repositories\\Repositories\\GenericRepositories.cs",
+              "RelativeDocumentMoniker": "Repositories\\Repositories\\GenericRepositories.cs",
+              "ToolTip": "D:\\Project C#\\API\\Repositories\\Repositories\\GenericRepositories.cs",
+              "RelativeToolTip": "Repositories\\Repositories\\GenericRepositories.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAswA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T08:06:40.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IGenericRepositories.cs",
+              "DocumentMoniker": "D:\\Project C#\\API\\Repositories\\Repositories\\Interfaces\\IGenericRepositories.cs",
+              "RelativeDocumentMoniker": "Repositories\\Repositories\\Interfaces\\IGenericRepositories.cs",
+              "ToolTip": "D:\\Project C#\\API\\Repositories\\Repositories\\Interfaces\\IGenericRepositories.cs",
+              "RelativeToolTip": "Repositories\\Repositories\\Interfaces\\IGenericRepositories.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T08:00:56.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\Project C#\\API\\Repositories\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Repositories\\Entities\\BaseEntity.cs",
+              "ToolTip": "D:\\Project C#\\API\\Repositories\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "Repositories\\Entities\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T07:50:50.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Services",
+              "DocumentMoniker": "D:\\Project C#\\API\\Services\\Services.csproj",
+              "RelativeDocumentMoniker": "Services\\Services.csproj",
+              "ToolTip": "D:\\Project C#\\API\\Services\\Services.csproj",
+              "RelativeToolTip": "Services\\Services.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-08T06:02:07.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Repositories",
+              "DocumentMoniker": "D:\\Project C#\\API\\Repositories\\Repositories.csproj",
+              "RelativeDocumentMoniker": "Repositories\\Repositories.csproj",
+              "ToolTip": "D:\\Project C#\\API\\Repositories\\Repositories.csproj",
+              "RelativeToolTip": "Repositories\\Repositories.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-08T05:52:06.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "API",
+              "DocumentMoniker": "D:\\Project C#\\API\\API\\API.csproj",
+              "RelativeDocumentMoniker": "API\\API.csproj",
+              "ToolTip": "D:\\Project C#\\API\\API\\API.csproj",
+              "RelativeToolTip": "API\\API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-08T05:43:02.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Project C#\\API\\Services\\Class1.cs",
+              "RelativeDocumentMoniker": "Services\\Class1.cs",
+              "ToolTip": "D:\\Project C#\\API\\Services\\Class1.cs",
+              "RelativeToolTip": "Services\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T05:32:47.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Project C#\\API\\Repositories\\Class1.cs",
+              "RelativeDocumentMoniker": "Repositories\\Class1.cs",
+              "ToolTip": "D:\\Project C#\\API\\Repositories\\Class1.cs",
+              "RelativeToolTip": "Repositories\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T05:26:39.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Project C#\\API\\API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "API\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Project C#\\API\\API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "API\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-08T05:25:50.714Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 118,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 286,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
